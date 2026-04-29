@@ -54,13 +54,13 @@ Results:
 ## Project Structure
 powerplant-energy-prediction-ann/
 │
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks for exploration & training
-├── src/                 # Source code (preprocessing, model, training)
-├── results/             # Plots, metrics, saved models
-├── requirements.txt     # Dependencies
-├── README.md            # Project overview
-└── LICENSE              # License file
+├── data/                
+├── notebooks/           
+├── src/                 
+├── results/             
+├── requirements.txt     
+├── README.md            
+└── LICENSE              
 
 ## License
 This project is licensed under the MIT License.
