@@ -42,7 +42,7 @@ Results:
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/masudaucb1303/powerplant-energy-prediction-ann.git
+   git clone https://github.com/masudrr72/powerplant-energy-prediction-ann.git
    cd powerplant-energy-prediction-ann
 
 2. Install dependencies:
