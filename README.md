@@ -28,6 +28,7 @@ self.model = nn.Sequential(
     nn.ReLU(),
     nn.Linear(6, 1)
 )
+
 Input: 4 features
 
 Hidden Layer 1: 6 neurons, ReLU
@@ -36,7 +37,7 @@ Hidden Layer 2: 6 neurons, ReLU
 
 Output: 1 neuron (regression output)
 
-⚙️ Training, Validation & Evaluation
+## ⚙️ Training, Validation & Evaluation
 Optimizer: Adam
 
 Loss Function: Mean Squared Error (MSE)
@@ -45,14 +46,14 @@ Epochs: 60
 
 Best model saved as best_model.pt
 
-Results:
+## Results:
 Training MSE: 21.64
 
 Testing MSE: 19.99
 
 R² Score: 0.926
 
-🔑 Key Learnings
+## 🔑 Key Learnings
 How ANN models learn patterns from data
 
 Importance of tracking both training and validation loss
@@ -63,7 +64,7 @@ Evaluating regression models using MSE and R² score
 
 Hands-on practice with PyTorch training loop, validation, and evaluation
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository:
 
 bash
